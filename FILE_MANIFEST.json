@@ -20,11 +20,6 @@
     "sha256": "0912c7d0980b99b2e21e979d2d9b9be7fd2c8c163b6809e9b221c15c5afb17b3"
   },
   {
-    "file": "assets/replay_data.json.gz",
-    "bytes": 465035,
-    "sha256": "4a63583544b040b8efd6e86ba416f2ea4a2d365f605c7f539563f62fe4e1802d"
-  },
-  {
     "file": "data/legacy_manifest.json",
     "bytes": 821,
     "sha256": "b871da316dd48ca0698a32fd6be59a22966daaa9faf5fff5580240126e7010c5"
@@ -96,8 +91,8 @@
   },
   {
     "file": "index.html",
-    "bytes": 16596,
-    "sha256": "9a6758cf6df974888039978f6d7802769321542e687f31b4f257d2661926d0a7"
+    "bytes": 1536598,
+    "sha256": "10b5dd0a62a2ede316b49df44979537cff8d5f8423dd7fb9d11a43f2de06f944"
   },
   {
     "file": "KAGGLE_2026_GUIDE.md",
@@ -286,8 +281,8 @@
   },
   {
     "file": "src/build_pages.py",
-    "bytes": 925,
-    "sha256": "6bab8fc65c893130801c1be5aabe876a0ca5d0466f9c68c2e808df4927a0c1b2"
+    "bytes": 636,
+    "sha256": "ce6a859a71690bb8fb2ee054e1ef65c72a9516abee8c1822034c58e5c8ab6080"
   },
   {
     "file": "src/demo_template.html",
