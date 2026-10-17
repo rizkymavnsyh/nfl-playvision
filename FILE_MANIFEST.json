@@ -91,8 +91,8 @@
   },
   {
     "file": "index.html",
-    "bytes": 1536598,
-    "sha256": "10b5dd0a62a2ede316b49df44979537cff8d5f8423dd7fb9d11a43f2de06f944"
+    "bytes": 6378530,
+    "sha256": "8e84be3d442df1c9ebf042df9a97ae00b9f7eece5d13d7011b8c44a9a16a6722"
   },
   {
     "file": "KAGGLE_2026_GUIDE.md",
@@ -281,8 +281,8 @@
   },
   {
     "file": "src/build_pages.py",
-    "bytes": 636,
-    "sha256": "ce6a859a71690bb8fb2ee054e1ef65c72a9516abee8c1822034c58e5c8ab6080"
+    "bytes": 319,
+    "sha256": "5266d45e2e546a2dde3fd0cc5013c6d21de276ed7b1d319f9bd21beb5180cc06"
   },
   {
     "file": "src/demo_template.html",
