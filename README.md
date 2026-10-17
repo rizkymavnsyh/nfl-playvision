@@ -1,71 +1,54 @@
 # NFL PlayVision
 
-**An interactive NFL replay with short-horizon player-motion forecasts and receiver–defender geometry.**
+**An interactive study of NFL player movement and short-horizon position forecasting.**
 
-**[Open the interactive dashboard](https://rizkymavnsyh.github.io/nfl-playvision/)** · [Download the offline HTML](PlayVision_Offline.html)
+[Explore the dashboard](https://rizkymavnsyh.github.io/nfl-playvision/) · [Open the Colab notebook](NFL_PlayVision_v2_Colab.ipynb) · [Read the model card](MODEL_CARD.md) · [View full results](reports/RESULTS.md)
 
-The dashboard uses an editorial sports layout and runs entirely in the browser. Its 21 clips are recorded historical plays; the displayed forecasts are retrospective demonstrations, not live game predictions.
+PlayVision replays recorded tracking data, projects where a player will be **0.5 or 1.0 seconds later**, and lets you compare that projection with the actual path. The field view also measures receiver–defender separation and closing speed. It is a retrospective analysis tool, not a live game or catch-outcome predictor.
 
-## Pembaruan v2
+## What you can explore
 
-Replay offline dalam paket ini memakai model gabungan: LightGBM khusus untuk horizon 0,5 detik, dan model asli untuk 1 detik. Model khusus dipilih berdasarkan error pada dua pertandingan validasi; versi 1 detik yang baru tidak dipakai karena hasil validasinya lebih buruk. Pada dua pertandingan tes 2021 yang sama, error 0,5 detik turun dari **0,251 ke 0,221 yard**, dan proporsi dalam 0,5 yard naik dari **93,41% ke 95,86%**. Hasil 1 detik tetap **0,919 yard** dan **61,60% dalam 1 yard**.
+- **21 clips from 13 real games:** 18 clips from 2021 tracking and three from a complete 2017 game.
+- **Player-level replay:** choose a play and receiver, scrub frame by frame, and switch forecast horizons.
+- **Forecast comparison:** see the model's predicted position, a constant-velocity baseline, and optional future ground truth.
+- **Matchup geometry:** inspect the nearest defensive back's distance and closing speed. Proximity does not identify coverage assignment.
 
-Tes 2021 ini pernah dilihat dalam proyek v1. Perbandingan v2 adalah benchmark berulang, **bukan tes buta baru**. Lihat `reports/RESULTS.md` dan `models/hybrid_v2/metrics.json`.
+The dashboard runs on GitHub Pages. For an internet-free version, download [PlayVision_Offline.html](PlayVision_Offline.html) and open it locally. A short [replay video](demo/PlayVision_Replay.mp4) is also available.
 
-## Buka langsung — tanpa instalasi
+## Held-out results
 
-Ekstrak ZIP lalu buka **`PlayVision_Offline.html`** dengan Chrome/Edge/Firefox. Semua JavaScript dan data replay sudah tertanam, sehingga tidak membutuhkan server atau internet.
+The table reports **position error**, not accuracy of wins, catches, or player performance. Results come from two held-out 2021 games.
 
-- Pilih dari **21 replay nyata**: 18 play dari 12 pertandingan 2021 dan 3 play dari satu pertandingan 2017. Label `TEST`, `VALIDATION`, dan `TRAIN` menunjukkan peran game dalam pelatihan/evaluasi; hanya game `TEST` yang menyumbang angka tes 2021.
-- Pilih receiver dan horizon 0,5 atau 1 detik.
-- Klik Play atau geser frame; tombol panah juga tersedia.
-- Diamond kuning limau adalah posisi prediksi; lingkaran abu-abu adalah baseline kecepatan tetap.
-- Aktifkan **Show future path** untuk membandingkan dengan posisi aktual. Informasi masa depan ini adalah overlay evaluasi, bukan input model.
-- Panel kanan menunjukkan jarak dan closing speed terhadap defensive back terdekat. Itu hubungan geometris, **bukan identifikasi assignment coverage atau kesalahan pemain**.
+| Forecast horizon | Mean position error | Within tolerance | Tolerance |
+| --- | ---: | ---: | ---: |
+| 0.5 seconds | **0.221 yd** | **95.86%** | 0.5 yd |
+| 1.0 seconds | **0.919 yd** | **61.60%** | 1.0 yd |
 
-## Model yang benar-benar dilatih
+At 0.5 seconds, the v2 model reduced mean error from **0.251 to 0.221 yd** relative to v1, an **11.9% reduction**. The 1.0-second model remained unchanged after a candidate performed worse on validation. See [the evaluation report](reports/RESULTS.md) for baselines, movement-only and phase analyses, and the separate 2017 test.
 
-Model v1 adalah temporal residual model dengan FLAML AutoML (LightGBM/Extra Trees). Model v2 memakai LightGBM tersendiri untuk horizon 0,5 detik. Model memakai fitur posisi historis, kecepatan/percepatan dari frame terdahulu, perubahan arah, jarak pemain lawan/teammate/bola saat ini, dan posisi resmi. Tidak ada model computer vision dari video dan tidak ada klaim GRU/Transformer telah dilatih.
+**Evaluation boundary:** frames within a play are correlated, and the held-out set contains only two games. The v2 comparison reused a test set already examined during v1 development; it is a repeated benchmark, not a fresh blind test. The 2021 clips end shortly after the pass release, so these numbers mostly describe movement before release. They do not establish league-wide performance.
 
-Baseline: kecepatan tetap dan percepatan tetap yang diperkirakan dari masa lalu. Model belajar koreksi posisi terhadap baseline. Bobot campuran dipilih pada validasi, bukan tes. Frame saat ini dan frame terdahulu saja boleh menjadi predictor. Actor ID, play ID, lokasi pendaratan bola masa depan, hasil play, dan koordinat masa depan tidak menjadi fitur.
+## How the model works
 
-## Data dan lingkup bukti
+The v1 pipeline uses FLAML AutoML to select a residual motion model. V2 adds a LightGBM specialist for the 0.5-second horizon, selected on two validation games. Inputs include observed position and motion history, current neighbor geometry, and player position. The model predicts a correction to a physics-based motion baseline.
 
-- **2021 regional-event tracking:** 12 pertandingan, dari repositori publik ThompsonJamesBliss, dengan tracking NFL Next Gen Stats. Delapan pertandingan latihan (minggu 1–2), dua validasi (minggu 3), dua tes (minggu 4). Source commit dan SHA-256 disimpan.
-- **2017 official NFL game:** KC–NE, sumber NFL Football Operations, untuk tiga replay lengkap dan evaluasi eksternal terpisah. Direction 2017 diinferensikan dari alignment QB dan bola saat snap; kasus ambigu dikeluarkan.
-- **2026 Kaggle:** tidak dilatih dalam paket bawaan. Endpoint memberi 401 tanpa akun/persetujuan. Importer menerima file yang Anda unduh sendiri secara sah.
+Game splits are chronological: **8 training games, 2 validation games, and 2 test games** from 2021. Player ID, play ID, future coordinates, ball landing location, and play outcome are excluded from model inputs. Future tracking appears only as an evaluation overlay. The 2017 game is a separate cross-era check, not training data.
 
-Data regional berhenti sekitar 0,3–0,5 detik setelah pass release. Maka evaluasi regional terutama berasal dari fase sebelum release dalam passing plays, **bukan evaluasi penuh satu detik selama bola di udara**. Laporan phase metrics menampilkan batas itu. Replay 2017 penuh adalah domain/era lain; angka evaluasinya dipisahkan.
+The project does **not** train on Kaggle's 2026 competition data. The optional [2026 importer guide](KAGGLE_2026_GUIDE.md) documents an adapter that has been tested with a synthetic schema fixture, not the competition files.
 
-Test berisi banyak frame yang saling berkorelasi dari hanya dua pertandingan. Persentase toleransi posisi tidak berarti akurasi hasil pertandingan, catch probability, atau akurasi seluruh NFL. Evaluasi lebih besar dan lebih banyak game diperlukan untuk klaim produksi.
+## Run locally
 
-Lihat **`reports/RESULTS.md`** untuk angka yang benar-benar diukur, baseline, moving-only, phase breakdown, dan evaluasi eksternal. Demo scenes dipilih berdasarkan play/cerita yang ditentukan, bukan berdasarkan error terkecil.
-
-## Google Colab dan Drive
-
-1. Upload ZIP sebagai **`NFL_PlayVision_v2.zip`** ke My Drive.
-2. Ekstrak ZIP di komputer, lalu upload `NFL_PlayVision_v2_Colab.ipynb` ke Colab.
-3. Run all menampilkan model gabungan v2 dan replay terbaru. `TRAIN_NEW=False` adalah default. Notebook v1 tetap tersedia sebagai arsip.
-4. Ubah `TRAIN_NEW=True` untuk pelatihan ulang pada data regional. CPU cukup; GPU tidak diperlukan. Default budget 60 detik per sumbu x/y, ditambah pengunduhan, preprocessing, fit terakhir, dan evaluasi.
-5. Hasil run baru, HTML, dan metadata disalin ke Drive. Raw snapshot dapat besar, dan disimpan saat pelatihan diminta.
-
-Login Google Drive/Colab memerlukan sesi Anda dan tidak diuji di lingkungan pembuat. Sel Python notebook dan aplikasi lokal diuji secara terpisah.
-
-## Lokal
-
-Python 3.11+:
+Use Python 3.11 or newer:
 
 ```bash
 python -m pip install -r requirements.txt
 python src/playvision.py download
 python src/playvision.py prepare
-python src/playvision.py train --budget 60 --run-dir runs/my_run
-python src/playvision.py evaluate --run-dir runs/my_run
 python -m pytest tests -q
 streamlit run app.py
 ```
 
-Untuk mereproduksi eksperimen v2 setelah `download` dan `prepare`:
+To reproduce the v2 experiment after downloading and preparing data:
 
 ```bash
 python experiments/horizon_models.py
@@ -73,26 +56,19 @@ python experiments/build_hybrid_v2.py
 python src/export_demo.py --model-path models/hybrid_v2/model.joblib --metrics-path models/hybrid_v2/metrics.json
 ```
 
-Model bawaan sudah dibekukan dan tidak ditimpa. Pilih run folder baru. Melatih ulang lalu melihat test yang sama adalah benchmark berulang, bukan tes independen baru.
+The [Colab notebook](NFL_PlayVision_v2_Colab.ipynb) loads the packaged model by default. Set `TRAIN_NEW=True` in the notebook to retrain. The original v1 notebook remains in the repository for reference.
 
-## Data Kaggle 2026 milik Anda
+## Repository guide
 
-Baca `KAGGLE_2026_GUIDE.md`. Importer membuang `ball_land_x`, `ball_land_y`, `player_role`, dan metadata target masa depan. Waktu snap yang tidak diketahui tetap missing; tidak direkayasa. Adapter diuji dengan fixture sintetis untuk struktur/leakage, **belum dengan file 2026 asli**. Tidak ada synthetic tracking yang dipakai sebagai data latihan/model score bawaan.
+| Path | Contents |
+| --- | --- |
+| [index.html](index.html), [assets/](assets/) | GitHub Pages dashboard and replay data |
+| [PlayVision_Offline.html](PlayVision_Offline.html) | Standalone dashboard with embedded data and JavaScript |
+| [src/](src/) | Tracking preparation, forecasting, importers, and dashboard exporters |
+| [models/hybrid_v2/](models/hybrid_v2/) | Packaged v2 model and metrics |
+| [experiments/](experiments/) | Horizon comparison and model selection |
+| [reports/](reports/) | Evaluation details and verification artifacts |
+| [tests/](tests/) | Split, leakage, physics, adapter, and inference checks |
+| [DATA_SOURCES.md](DATA_SOURCES.md) | Source attribution and provenance |
 
-## Isi penting
-
-- `PlayVision_Offline.html`: aplikasi offline lengkap.
-- `demo/PlayVision_Replay.mp4`: video demo 10,7 detik dari tracking nyata.
-- `MODEL_CARD.md`, `DATA_SOURCES.md`, `reports/RESULTS.md`: metode, sumber, angka dan batasan.
-- `app.py`: wrapper Streamlit.
-- `NFL_PlayVision_v2_Colab.ipynb`: alur Colab untuk model gabungan dan replay terbaru.
-- `NFL_PlayVision_Colab.ipynb`: notebook v1 asli sebagai arsip.
-- `models/verified/`: model, pilihan validasi, frozen hash, metrik.
-- `models/hybrid_v2/`: model gabungan dan metrik terbaru; model v1 tetap tersedia.
-- `experiments/horizon_models.py`, `experiments/build_hybrid_v2.py`: reproduksi eksperimen peningkatan dan keputusan pemilihan.
-- `assets/replay_data.json`: 21 replay nyata yang diturunkan dari sumber beratribusi.
-- `src/`: download, fitur kausal, model, adapter 2017/2026, exporter replay.
-- `tests/`: fisika, future-leakage, rotasi arah, split game, importer, inferensi.
-- `reports/`: angka nyata, log dan validasi.
-
-Raw CSV sumber dan dataset processed lengkap tidak didistribusikan dalam ZIP. Source terms tetap mengikuti pemilik data. Project ini tidak berafiliasi dengan NFL, tim, Kaggle, atau pemasok data.
+Raw source CSVs and full processed datasets are not included. This independent portfolio project is not affiliated with the NFL, its teams, Kaggle, or the data providers.
