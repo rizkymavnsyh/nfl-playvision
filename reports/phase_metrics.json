@@ -1,0 +1,23 @@
+[
+  {
+    "horizon": 0.5,
+    "phase": "before_release",
+    "n": 16467,
+    "mean_distance_yards": 0.2509634443874421,
+    "within_1_yard_pct": 99.97570899374506
+  },
+  {
+    "horizon": 0.5,
+    "phase": "post_release",
+    "n": 332,
+    "mean_distance_yards": 0.2681833022970231,
+    "within_1_yard_pct": 99.69879518072288
+  },
+  {
+    "horizon": 1.0,
+    "phase": "before_release",
+    "n": 13886,
+    "mean_distance_yards": 0.9194132790466337,
+    "within_1_yard_pct": 61.6016131355322
+  }
+]

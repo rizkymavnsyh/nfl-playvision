@@ -1,0 +1,22 @@
+[
+  {
+    "file": "official2017_games.csv",
+    "sha256": "f5bbd13d9c711c07e3d4a5b674eb25c1f5f9ced099729337bfd366b5229199ed",
+    "repository": "https://github.com/nfl-football-ops/Big-Data-Bowl"
+  },
+  {
+    "file": "official2017_players.csv",
+    "sha256": "f83b569774d9511ab684a7569e3a7e277a85e5d317c8af96f05d5d0b7c637ca1",
+    "repository": "https://github.com/nfl-football-ops/Big-Data-Bowl"
+  },
+  {
+    "file": "official2017_plays.csv",
+    "sha256": "0f4c57478d129065119a2a24e243e913cf3fce626b1307720675d1ef55b3623c",
+    "repository": "https://github.com/nfl-football-ops/Big-Data-Bowl"
+  },
+  {
+    "file": "official2017_tracking_gameId_2017090700.csv",
+    "sha256": "30e0de5a213093011d16f7c0893fb6108284cb82be155b5e1bb14de754319f9b",
+    "repository": "https://github.com/nfl-football-ops/Big-Data-Bowl"
+  }
+]

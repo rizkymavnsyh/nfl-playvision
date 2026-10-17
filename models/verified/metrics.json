@@ -1,0 +1,104 @@
+{
+  "source": "Real 2021 regional-event NFL tracking; not 2026 Kaggle data",
+  "test_games": [
+    2021093000,
+    2021100300
+  ],
+  "test_plays": 116,
+  "horizons": {
+    "0.5": {
+      "selected_model": {
+        "n": 16799,
+        "mean_distance_yards": 0.2513037618364558,
+        "median_distance_yards": 0.2270110420087235,
+        "p90_distance_yards": 0.45144382636721325,
+        "coordinate_RMSE_yards": 0.2063018769575264,
+        "within_0_5_yards_pct": 93.41032204297875,
+        "within_1_yard_pct": 99.97023632359068,
+        "within_2_yards_pct": 100.0
+      },
+      "constant_velocity": {
+        "n": 16799,
+        "mean_distance_yards": 0.6071484492773868,
+        "median_distance_yards": 0.5758086101783882,
+        "p90_distance_yards": 1.062749054870181,
+        "coordinate_RMSE_yards": 0.4885191125589497,
+        "within_0_5_yards_pct": 41.538186796833145,
+        "within_1_yard_pct": 86.70158938032026,
+        "within_2_yards_pct": 100.0
+      },
+      "constant_acceleration": {
+        "n": 16799,
+        "mean_distance_yards": 0.3720079198382127,
+        "median_distance_yards": 0.3318527302402683,
+        "p90_distance_yards": 0.7021027052750934,
+        "coordinate_RMSE_yards": 0.3099331376870185,
+        "within_0_5_yards_pct": 73.33174593725818,
+        "within_1_yard_pct": 98.94041311982856,
+        "within_2_yards_pct": 100.0
+      },
+      "relative_mean_error_reduction_vs_CV_pct": 58.60917340140597,
+      "moving_players": {
+        "n": 13716,
+        "mean_distance_yards": 0.25285340591205513,
+        "median_distance_yards": 0.22847317228070405,
+        "p90_distance_yards": 0.45556928371547867,
+        "coordinate_RMSE_yards": 0.2077320573657793,
+        "within_0_5_yards_pct": 93.1758530183727,
+        "within_1_yard_pct": 99.96354622338875,
+        "within_2_yards_pct": 100.0
+      },
+      "choice": {
+        "baseline": "ca",
+        "weight": 0.75
+      }
+    },
+    "1.0": {
+      "selected_model": {
+        "n": 13886,
+        "mean_distance_yards": 0.9194132790466337,
+        "median_distance_yards": 0.8265110750291687,
+        "p90_distance_yards": 1.659177729827821,
+        "coordinate_RMSE_yards": 0.7535359229681402,
+        "within_0_5_yards_pct": 24.225838974506697,
+        "within_1_yard_pct": 61.6016131355322,
+        "within_2_yards_pct": 95.88074319458447
+      },
+      "constant_velocity": {
+        "n": 13886,
+        "mean_distance_yards": 1.8353501869035111,
+        "median_distance_yards": 1.753930503830464,
+        "p90_distance_yards": 3.154244915608857,
+        "coordinate_RMSE_yards": 1.4670376911020793,
+        "within_0_5_yards_pct": 7.25910989485813,
+        "within_1_yard_pct": 21.38844879734985,
+        "within_2_yards_pct": 58.663401987613426
+      },
+      "constant_acceleration": {
+        "n": 13886,
+        "mean_distance_yards": 1.3693160869741856,
+        "median_distance_yards": 1.2359753955624024,
+        "p90_distance_yards": 2.531900665876975,
+        "coordinate_RMSE_yards": 1.1248746857912644,
+        "within_0_5_yards_pct": 13.589226559124299,
+        "within_1_yard_pct": 38.08872245427049,
+        "within_2_yards_pct": 78.56834221518075
+      },
+      "relative_mean_error_reduction_vs_CV_pct": 49.90529406282892,
+      "moving_players": {
+        "n": 10905,
+        "mean_distance_yards": 0.9439020073588521,
+        "median_distance_yards": 0.852325410407404,
+        "p90_distance_yards": 1.6992773167218442,
+        "coordinate_RMSE_yards": 0.7714557103426584,
+        "within_0_5_yards_pct": 22.760201742320035,
+        "within_1_yard_pct": 59.74323704722604,
+        "within_2_yards_pct": 95.48830811554333
+      },
+      "choice": {
+        "baseline": "cv",
+        "weight": 1
+      }
+    }
+  }
+}

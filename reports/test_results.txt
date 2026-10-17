@@ -1,0 +1,11 @@
+.........                                                                [100%]
+=============================== warnings summary ===============================
+nfl_playvision/tests/test_playvision.py::test_model_inference_needs_no_future_labels
+nfl_playvision/tests/test_playvision.py::test_model_inference_needs_no_future_labels
+nfl_playvision/tests/test_playvision.py::test_model_inference_needs_no_future_labels
+nfl_playvision/tests/test_playvision.py::test_model_inference_needs_no_future_labels
+  /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+    warnings.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+9 passed, 4 warnings in 1.49s

@@ -1,0 +1,65 @@
+{
+  "method": "One LightGBM residual regressor per horizon and coordinate; train/validation split by game.",
+  "selection": "Early stopping and baseline blend chosen on validation only.",
+  "caveat": "The 2021 test games were already scored by the original project; this is a repeated benchmark, not a new blind test.",
+  "horizons": {
+    "0.5": {
+      "validation_mean_error_yards": 0.2173319555132621,
+      "baseline": "ca",
+      "model_weight": 1.0,
+      "test": {
+        "n": 16799,
+        "mean_error_yards": 0.22130162633835906,
+        "within_0_5_yards_pct": 95.86284897910589,
+        "within_1_yard_pct": 99.98214179415442
+      },
+      "test_by_game": {
+        "2021093000": {
+          "n": 7065,
+          "mean_error_yards": 0.22487780574180413,
+          "within_0_5_yards_pct": 95.73956121726822,
+          "within_1_yard_pct": 99.98584571832978
+        },
+        "2021100300": {
+          "n": 9734,
+          "mean_error_yards": 0.2187060122552134,
+          "within_0_5_yards_pct": 95.9523320320526,
+          "within_1_yard_pct": 99.97945346209164
+        }
+      },
+      "best_iterations": {
+        "x": 900,
+        "y": 900
+      }
+    },
+    "1.0": {
+      "validation_mean_error_yards": 0.9149963414856974,
+      "baseline": "ca",
+      "model_weight": 1.0,
+      "test": {
+        "n": 13886,
+        "mean_error_yards": 0.9338373133710689,
+        "within_0_5_yards_pct": 24.03139853089443,
+        "within_1_yard_pct": 61.62321762926689
+      },
+      "test_by_game": {
+        "2021093000": {
+          "n": 5905,
+          "mean_error_yards": 0.9585462844821921,
+          "within_0_5_yards_pct": 22.929720575783236,
+          "within_1_yard_pct": 59.813717188823034
+        },
+        "2021100300": {
+          "n": 7981,
+          "mean_error_yards": 0.9155555849647057,
+          "within_0_5_yards_pct": 24.846510462348075,
+          "within_1_yard_pct": 62.96203483272773
+        }
+      },
+      "best_iterations": {
+        "x": 898,
+        "y": 900
+      }
+    }
+  }
+}

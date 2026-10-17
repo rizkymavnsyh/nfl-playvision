@@ -1,0 +1,12 @@
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+lightgbm==4.6.0
+flaml[automl]==2.3.6
+joblib==1.5.3
+plotly>=5.24,<7
+streamlit>=1.40,<2
+matplotlib>=3.9,<4
+pillow>=10,<13
+nbformat>=5.10,<6
+pytest>=8,<9

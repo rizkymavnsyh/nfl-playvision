@@ -1,0 +1,28 @@
+{
+  "model_tests": "9 passed",
+  "notebook_code_cells": "8 executed unchanged locally",
+  "streamlit_AppTest": "PASS",
+  "browser": {
+    "status": "PASS",
+    "browser": "Chromium headless",
+    "scenes": 5,
+    "horizons": 2,
+    "offline": true,
+    "playback": "PASS",
+    "future_overlay": "PASS",
+    "mobile_no_horizontal_overflow": true,
+    "javascript_errors": [],
+    "external_requests": []
+  },
+  "video": {
+    "duration_seconds": 10.7,
+    "resolution": "1280x720",
+    "decoded_frame_visual_review": "PASS"
+  },
+  "limitations": [
+    "Hosted Colab Drive authentication not tested",
+    "2026 real competition files not available; importer schema fixture only",
+    "Main heldout evaluation only two 2021 games; mostly pre-release",
+    "2017 external evaluation only one game; different era"
+  ]
+}

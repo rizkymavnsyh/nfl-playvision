@@ -1,0 +1,7 @@
+data/raw/
+data/processed/
+.deps/
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+*.pyc

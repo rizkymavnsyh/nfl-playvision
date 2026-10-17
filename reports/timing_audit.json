@@ -1,0 +1,86 @@
+[
+  {
+    "file": "tracking_2021090900.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091200.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091201.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091202.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091600.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091900.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091901.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021091902.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021092300.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021092600.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021093000.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  },
+  {
+    "file": "tracking_2021100300.csv",
+    "time_field_precision": "whole seconds, not subsecond",
+    "median_frames_between_whole_second_changes": 10.0,
+    "fraction_of_second_changes_10_frames_apart": 1.0,
+    "FPS_used": 10
+  }
+]

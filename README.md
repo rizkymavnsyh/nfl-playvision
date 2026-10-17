@@ -96,4 +96,3 @@ Baca `KAGGLE_2026_GUIDE.md`. Importer membuang `ball_land_x`, `ball_land_y`, `pl
 - `reports/`: angka nyata, log dan validasi.
 
 Raw CSV sumber dan dataset processed lengkap tidak didistribusikan dalam ZIP. Source terms tetap mengikuti pemilik data. Project ini tidak berafiliasi dengan NFL, tim, Kaggle, atau pemasok data.
-

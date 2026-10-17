@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "browser": "Chromium headless",
+  "scenes": 5,
+  "horizons": 2,
+  "offline": true,
+  "playback": "PASS",
+  "future_overlay": "PASS",
+  "mobile_no_horizontal_overflow": true,
+  "javascript_errors": [],
+  "external_requests": []
+}

@@ -1,0 +1,1954 @@
+[
+  {
+    "name": "tracking_2021090900.csv",
+    "path": "data/tracking/tracking_2021090900.csv",
+    "sha": "4cb4a6b72fd8c84a0c9ede6e42c0c50a4a404851",
+    "size": 9461760,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021090900.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021090900.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4cb4a6b72fd8c84a0c9ede6e42c0c50a4a404851",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021090900.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021090900.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4cb4a6b72fd8c84a0c9ede6e42c0c50a4a404851",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021090900.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091200.csv",
+    "path": "data/tracking/tracking_2021091200.csv",
+    "sha": "f80e4ae1c53895be31c1ac6289e9bfb79cbb5176",
+    "size": 7117085,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091200.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091200.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f80e4ae1c53895be31c1ac6289e9bfb79cbb5176",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091200.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091200.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f80e4ae1c53895be31c1ac6289e9bfb79cbb5176",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091200.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091201.csv",
+    "path": "data/tracking/tracking_2021091201.csv",
+    "sha": "f53fb8437477bf832825f6fe92e542e48dfea24d",
+    "size": 7842946,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091201.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091201.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f53fb8437477bf832825f6fe92e542e48dfea24d",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091201.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091201.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f53fb8437477bf832825f6fe92e542e48dfea24d",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091201.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091202.csv",
+    "path": "data/tracking/tracking_2021091202.csv",
+    "sha": "44ae9e5a4f6de365c8478c1342bebe8b55d95518",
+    "size": 7007257,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091202.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091202.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/44ae9e5a4f6de365c8478c1342bebe8b55d95518",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091202.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091202.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/44ae9e5a4f6de365c8478c1342bebe8b55d95518",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091202.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091203.csv",
+    "path": "data/tracking/tracking_2021091203.csv",
+    "sha": "93daec7011c8161e4e39a179c44198920e4d6f2e",
+    "size": 7293583,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091203.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091203.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/93daec7011c8161e4e39a179c44198920e4d6f2e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091203.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091203.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/93daec7011c8161e4e39a179c44198920e4d6f2e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091203.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091204.csv",
+    "path": "data/tracking/tracking_2021091204.csv",
+    "sha": "814ce9513ce8dcb56be889b98f2558e48174462e",
+    "size": 8373499,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091204.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091204.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/814ce9513ce8dcb56be889b98f2558e48174462e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091204.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091204.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/814ce9513ce8dcb56be889b98f2558e48174462e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091204.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091205.csv",
+    "path": "data/tracking/tracking_2021091205.csv",
+    "sha": "4cabeada6a06997a3f42fe094d8053fe6c7048c4",
+    "size": 7747238,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091205.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091205.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4cabeada6a06997a3f42fe094d8053fe6c7048c4",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091205.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091205.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4cabeada6a06997a3f42fe094d8053fe6c7048c4",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091205.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091206.csv",
+    "path": "data/tracking/tracking_2021091206.csv",
+    "sha": "07f3d648a0deccae30f0f44879297d0a03005fa4",
+    "size": 6545022,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091206.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091206.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/07f3d648a0deccae30f0f44879297d0a03005fa4",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091206.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091206.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/07f3d648a0deccae30f0f44879297d0a03005fa4",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091206.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091207.csv",
+    "path": "data/tracking/tracking_2021091207.csv",
+    "sha": "f01578b91ac87f002e568276899cbca6474dfbb5",
+    "size": 6550310,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091207.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091207.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f01578b91ac87f002e568276899cbca6474dfbb5",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091207.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091207.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f01578b91ac87f002e568276899cbca6474dfbb5",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091207.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091208.csv",
+    "path": "data/tracking/tracking_2021091208.csv",
+    "sha": "6c998fcf366a3c3f456e7d0192ff5f49fc6f668e",
+    "size": 6630984,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091208.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091208.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6c998fcf366a3c3f456e7d0192ff5f49fc6f668e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091208.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091208.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6c998fcf366a3c3f456e7d0192ff5f49fc6f668e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091208.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091209.csv",
+    "path": "data/tracking/tracking_2021091209.csv",
+    "sha": "1f82e79ea4085bf2e60f28c2077c55294e67da28",
+    "size": 6654591,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091209.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091209.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1f82e79ea4085bf2e60f28c2077c55294e67da28",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091209.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091209.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1f82e79ea4085bf2e60f28c2077c55294e67da28",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091209.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091210.csv",
+    "path": "data/tracking/tracking_2021091210.csv",
+    "sha": "4a48b2cfdd2eaac884aeb21ce5270a6d52941221",
+    "size": 5528515,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091210.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091210.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4a48b2cfdd2eaac884aeb21ce5270a6d52941221",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091210.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091210.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4a48b2cfdd2eaac884aeb21ce5270a6d52941221",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091210.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091211.csv",
+    "path": "data/tracking/tracking_2021091211.csv",
+    "sha": "668555fa29254543753820c7a715567075c0c328",
+    "size": 4908044,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091211.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091211.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/668555fa29254543753820c7a715567075c0c328",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091211.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091211.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/668555fa29254543753820c7a715567075c0c328",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091211.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091212.csv",
+    "path": "data/tracking/tracking_2021091212.csv",
+    "sha": "b2e33c25d0a8afc65fa13c27dd54c1f476b2b755",
+    "size": 7402581,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091212.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091212.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b2e33c25d0a8afc65fa13c27dd54c1f476b2b755",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091212.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091212.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b2e33c25d0a8afc65fa13c27dd54c1f476b2b755",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091212.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091213.csv",
+    "path": "data/tracking/tracking_2021091213.csv",
+    "sha": "af3bc1b5b37bb0ba6758052e79e42f0b3b41a450",
+    "size": 5875612,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091213.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091213.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/af3bc1b5b37bb0ba6758052e79e42f0b3b41a450",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091213.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091213.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/af3bc1b5b37bb0ba6758052e79e42f0b3b41a450",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091213.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091300.csv",
+    "path": "data/tracking/tracking_2021091300.csv",
+    "sha": "e489860480b6ca114aa9967ee6559fe9fafafb50",
+    "size": 9423329,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091300.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091300.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/e489860480b6ca114aa9967ee6559fe9fafafb50",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091300.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091300.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/e489860480b6ca114aa9967ee6559fe9fafafb50",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091300.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091600.csv",
+    "path": "data/tracking/tracking_2021091600.csv",
+    "sha": "35e9214aa3fe720ee30f75a096754d57ac4600b0",
+    "size": 7561571,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091600.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091600.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/35e9214aa3fe720ee30f75a096754d57ac4600b0",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091600.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091600.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/35e9214aa3fe720ee30f75a096754d57ac4600b0",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091600.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091900.csv",
+    "path": "data/tracking/tracking_2021091900.csv",
+    "sha": "6bc4fe461d1fcc824671d9c02b949782eb25c086",
+    "size": 6703387,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091900.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091900.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6bc4fe461d1fcc824671d9c02b949782eb25c086",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091900.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091900.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6bc4fe461d1fcc824671d9c02b949782eb25c086",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091900.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091901.csv",
+    "path": "data/tracking/tracking_2021091901.csv",
+    "sha": "2ff799ceaf040554721fd97ea1aaf2eef960f64d",
+    "size": 6357609,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091901.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091901.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2ff799ceaf040554721fd97ea1aaf2eef960f64d",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091901.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091901.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2ff799ceaf040554721fd97ea1aaf2eef960f64d",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091901.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091902.csv",
+    "path": "data/tracking/tracking_2021091902.csv",
+    "sha": "3a0ea686676ea2c5864a4e8013100af7c0a2fdb6",
+    "size": 5316847,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091902.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091902.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/3a0ea686676ea2c5864a4e8013100af7c0a2fdb6",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091902.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091902.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/3a0ea686676ea2c5864a4e8013100af7c0a2fdb6",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091902.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091903.csv",
+    "path": "data/tracking/tracking_2021091903.csv",
+    "sha": "6c76b03ff7c574a3b727d592484d4d384a9bbe1b",
+    "size": 6905532,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091903.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091903.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6c76b03ff7c574a3b727d592484d4d384a9bbe1b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091903.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091903.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6c76b03ff7c574a3b727d592484d4d384a9bbe1b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091903.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091904.csv",
+    "path": "data/tracking/tracking_2021091904.csv",
+    "sha": "06ade45265a96cc01acdfee160bff5874f72035c",
+    "size": 7300454,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091904.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091904.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/06ade45265a96cc01acdfee160bff5874f72035c",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091904.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091904.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/06ade45265a96cc01acdfee160bff5874f72035c",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091904.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091905.csv",
+    "path": "data/tracking/tracking_2021091905.csv",
+    "sha": "6c813deee1338ea8b8e56aa00ad665ebe6d8cb7c",
+    "size": 7802223,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091905.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091905.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6c813deee1338ea8b8e56aa00ad665ebe6d8cb7c",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091905.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091905.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6c813deee1338ea8b8e56aa00ad665ebe6d8cb7c",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091905.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091906.csv",
+    "path": "data/tracking/tracking_2021091906.csv",
+    "sha": "9053d1c0e8308d287dff80139344ca54cad1b7fc",
+    "size": 6784147,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091906.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091906.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/9053d1c0e8308d287dff80139344ca54cad1b7fc",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091906.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091906.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/9053d1c0e8308d287dff80139344ca54cad1b7fc",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091906.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091907.csv",
+    "path": "data/tracking/tracking_2021091907.csv",
+    "sha": "42136f54a434b902211d2c45e71bb6801c98c7c7",
+    "size": 5258462,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091907.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091907.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/42136f54a434b902211d2c45e71bb6801c98c7c7",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091907.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091907.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/42136f54a434b902211d2c45e71bb6801c98c7c7",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091907.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091908.csv",
+    "path": "data/tracking/tracking_2021091908.csv",
+    "sha": "638d214a7947f2dea15dd66d1c76f42dfae84b98",
+    "size": 6671843,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091908.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091908.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/638d214a7947f2dea15dd66d1c76f42dfae84b98",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091908.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091908.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/638d214a7947f2dea15dd66d1c76f42dfae84b98",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091908.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091909.csv",
+    "path": "data/tracking/tracking_2021091909.csv",
+    "sha": "1242f2b6c110bf13480331aef33b40f23259a034",
+    "size": 6065500,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091909.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091909.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1242f2b6c110bf13480331aef33b40f23259a034",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091909.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091909.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1242f2b6c110bf13480331aef33b40f23259a034",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091909.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091910.csv",
+    "path": "data/tracking/tracking_2021091910.csv",
+    "sha": "2901384e444d64a9130e6751f046175be9582fb5",
+    "size": 7610401,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091910.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091910.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2901384e444d64a9130e6751f046175be9582fb5",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091910.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091910.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2901384e444d64a9130e6751f046175be9582fb5",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091910.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091911.csv",
+    "path": "data/tracking/tracking_2021091911.csv",
+    "sha": "494658f1a9dddbd648ce9862937368f45e38f9a6",
+    "size": 6980306,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091911.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091911.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/494658f1a9dddbd648ce9862937368f45e38f9a6",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091911.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091911.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/494658f1a9dddbd648ce9862937368f45e38f9a6",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091911.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091912.csv",
+    "path": "data/tracking/tracking_2021091912.csv",
+    "sha": "0c5031667f7809a6ff5cb07888a0b6467fb91334",
+    "size": 7556687,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091912.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091912.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0c5031667f7809a6ff5cb07888a0b6467fb91334",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091912.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091912.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0c5031667f7809a6ff5cb07888a0b6467fb91334",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091912.csv"
+    }
+  },
+  {
+    "name": "tracking_2021091913.csv",
+    "path": "data/tracking/tracking_2021091913.csv",
+    "sha": "37a505381f6231cbad04e1057fff897168bb2681",
+    "size": 5561798,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091913.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091913.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/37a505381f6231cbad04e1057fff897168bb2681",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021091913.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021091913.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/37a505381f6231cbad04e1057fff897168bb2681",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021091913.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092000.csv",
+    "path": "data/tracking/tracking_2021092000.csv",
+    "sha": "717d327f8a8c0e475e28fc174327a475097bfa29",
+    "size": 6186802,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092000.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092000.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/717d327f8a8c0e475e28fc174327a475097bfa29",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092000.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092000.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/717d327f8a8c0e475e28fc174327a475097bfa29",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092000.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092300.csv",
+    "path": "data/tracking/tracking_2021092300.csv",
+    "sha": "8917519ea56f45b4f383ef6deb7250333a883ced",
+    "size": 6611817,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092300.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092300.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8917519ea56f45b4f383ef6deb7250333a883ced",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092300.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092300.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8917519ea56f45b4f383ef6deb7250333a883ced",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092300.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092600.csv",
+    "path": "data/tracking/tracking_2021092600.csv",
+    "sha": "933917b8870f51426690a69698f4c5d6ab9e7e04",
+    "size": 8106544,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092600.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092600.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/933917b8870f51426690a69698f4c5d6ab9e7e04",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092600.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092600.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/933917b8870f51426690a69698f4c5d6ab9e7e04",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092600.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092601.csv",
+    "path": "data/tracking/tracking_2021092601.csv",
+    "sha": "bec3fac5c864be269cdaa4c14c1abb9ed0ce7b0f",
+    "size": 6650455,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092601.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092601.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/bec3fac5c864be269cdaa4c14c1abb9ed0ce7b0f",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092601.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092601.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/bec3fac5c864be269cdaa4c14c1abb9ed0ce7b0f",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092601.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092602.csv",
+    "path": "data/tracking/tracking_2021092602.csv",
+    "sha": "96cda64440fba222eefb426c88ba7ec46ed0edc0",
+    "size": 7608029,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092602.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092602.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/96cda64440fba222eefb426c88ba7ec46ed0edc0",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092602.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092602.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/96cda64440fba222eefb426c88ba7ec46ed0edc0",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092602.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092603.csv",
+    "path": "data/tracking/tracking_2021092603.csv",
+    "sha": "d4ae51ac9ea1bd3755ec8233d59a44dffcd32c11",
+    "size": 6186549,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092603.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092603.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/d4ae51ac9ea1bd3755ec8233d59a44dffcd32c11",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092603.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092603.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/d4ae51ac9ea1bd3755ec8233d59a44dffcd32c11",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092603.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092604.csv",
+    "path": "data/tracking/tracking_2021092604.csv",
+    "sha": "4a8220685134b9fce759a07f3eb8c7039d933a1a",
+    "size": 8490030,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092604.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092604.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4a8220685134b9fce759a07f3eb8c7039d933a1a",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092604.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092604.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4a8220685134b9fce759a07f3eb8c7039d933a1a",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092604.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092605.csv",
+    "path": "data/tracking/tracking_2021092605.csv",
+    "sha": "b7d3bf2f585af64fb0756b8b62c0280719c8ea86",
+    "size": 7844447,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092605.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092605.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b7d3bf2f585af64fb0756b8b62c0280719c8ea86",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092605.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092605.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b7d3bf2f585af64fb0756b8b62c0280719c8ea86",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092605.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092606.csv",
+    "path": "data/tracking/tracking_2021092606.csv",
+    "sha": "2249d2ab4197bf9198fd3c5240d01aeb55ed464d",
+    "size": 7680753,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092606.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092606.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2249d2ab4197bf9198fd3c5240d01aeb55ed464d",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092606.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092606.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2249d2ab4197bf9198fd3c5240d01aeb55ed464d",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092606.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092607.csv",
+    "path": "data/tracking/tracking_2021092607.csv",
+    "sha": "02158fd302c04f7aa0a8f15c8b5ca93c197aa911",
+    "size": 6813709,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092607.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092607.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/02158fd302c04f7aa0a8f15c8b5ca93c197aa911",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092607.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092607.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/02158fd302c04f7aa0a8f15c8b5ca93c197aa911",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092607.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092608.csv",
+    "path": "data/tracking/tracking_2021092608.csv",
+    "sha": "1e2bdd3b6147f37c156ab730d7b3a022a1ac2eb9",
+    "size": 5757201,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092608.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092608.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1e2bdd3b6147f37c156ab730d7b3a022a1ac2eb9",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092608.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092608.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1e2bdd3b6147f37c156ab730d7b3a022a1ac2eb9",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092608.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092609.csv",
+    "path": "data/tracking/tracking_2021092609.csv",
+    "sha": "6ddfb0659739ade5fb4952327a8ea4f949ef139f",
+    "size": 6278763,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092609.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092609.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6ddfb0659739ade5fb4952327a8ea4f949ef139f",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092609.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092609.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6ddfb0659739ade5fb4952327a8ea4f949ef139f",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092609.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092610.csv",
+    "path": "data/tracking/tracking_2021092610.csv",
+    "sha": "0fd34df7b5ae74ee098d8ccbee45fe2679a2f7fe",
+    "size": 9486017,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092610.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092610.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0fd34df7b5ae74ee098d8ccbee45fe2679a2f7fe",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092610.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092610.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0fd34df7b5ae74ee098d8ccbee45fe2679a2f7fe",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092610.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092611.csv",
+    "path": "data/tracking/tracking_2021092611.csv",
+    "sha": "060544046791295ffa939e41200c0d339d5379ef",
+    "size": 7501480,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092611.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092611.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/060544046791295ffa939e41200c0d339d5379ef",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092611.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092611.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/060544046791295ffa939e41200c0d339d5379ef",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092611.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092612.csv",
+    "path": "data/tracking/tracking_2021092612.csv",
+    "sha": "8892d8e7af4251b84bd447f4fe71e064751b3972",
+    "size": 6092105,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092612.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092612.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8892d8e7af4251b84bd447f4fe71e064751b3972",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092612.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092612.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8892d8e7af4251b84bd447f4fe71e064751b3972",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092612.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092613.csv",
+    "path": "data/tracking/tracking_2021092613.csv",
+    "sha": "2cea3de50f284de3b3b74c2ac5d987ebc934509c",
+    "size": 6562884,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092613.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092613.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2cea3de50f284de3b3b74c2ac5d987ebc934509c",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092613.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092613.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2cea3de50f284de3b3b74c2ac5d987ebc934509c",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092613.csv"
+    }
+  },
+  {
+    "name": "tracking_2021092700.csv",
+    "path": "data/tracking/tracking_2021092700.csv",
+    "sha": "7d90d15847c194809410f906478237526957af55",
+    "size": 6928728,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092700.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092700.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/7d90d15847c194809410f906478237526957af55",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021092700.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021092700.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/7d90d15847c194809410f906478237526957af55",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021092700.csv"
+    }
+  },
+  {
+    "name": "tracking_2021093000.csv",
+    "path": "data/tracking/tracking_2021093000.csv",
+    "sha": "cd19b1d0023b125e28db2c1502a927fbe13ecaa5",
+    "size": 5717091,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021093000.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021093000.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cd19b1d0023b125e28db2c1502a927fbe13ecaa5",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021093000.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021093000.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cd19b1d0023b125e28db2c1502a927fbe13ecaa5",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021093000.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100300.csv",
+    "path": "data/tracking/tracking_2021100300.csv",
+    "sha": "f8c0691c84f08882ee01fb1c43b6d1f6fb12fbcf",
+    "size": 8038830,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100300.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100300.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f8c0691c84f08882ee01fb1c43b6d1f6fb12fbcf",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100300.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100300.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f8c0691c84f08882ee01fb1c43b6d1f6fb12fbcf",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100300.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100301.csv",
+    "path": "data/tracking/tracking_2021100301.csv",
+    "sha": "6ca4e4458a9dd7205d63aa719915bc8efef56cae",
+    "size": 5027458,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100301.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100301.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6ca4e4458a9dd7205d63aa719915bc8efef56cae",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100301.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100301.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6ca4e4458a9dd7205d63aa719915bc8efef56cae",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100301.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100302.csv",
+    "path": "data/tracking/tracking_2021100302.csv",
+    "sha": "4d78967171f4d33288e92491ded1db3c3438cd48",
+    "size": 6148048,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100302.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100302.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4d78967171f4d33288e92491ded1db3c3438cd48",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100302.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100302.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4d78967171f4d33288e92491ded1db3c3438cd48",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100302.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100303.csv",
+    "path": "data/tracking/tracking_2021100303.csv",
+    "sha": "4d23325a2124b6eb7f50e86b5ed42fe6bc47e05e",
+    "size": 6318249,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100303.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100303.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4d23325a2124b6eb7f50e86b5ed42fe6bc47e05e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100303.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100303.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4d23325a2124b6eb7f50e86b5ed42fe6bc47e05e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100303.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100304.csv",
+    "path": "data/tracking/tracking_2021100304.csv",
+    "sha": "72939718cc06b182df4b47fffd1901ec1d1176cf",
+    "size": 6812193,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100304.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100304.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/72939718cc06b182df4b47fffd1901ec1d1176cf",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100304.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100304.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/72939718cc06b182df4b47fffd1901ec1d1176cf",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100304.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100305.csv",
+    "path": "data/tracking/tracking_2021100305.csv",
+    "sha": "67f79409e58cc15308b3fbfe4fdfa373b4ccc248",
+    "size": 7436499,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100305.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100305.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/67f79409e58cc15308b3fbfe4fdfa373b4ccc248",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100305.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100305.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/67f79409e58cc15308b3fbfe4fdfa373b4ccc248",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100305.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100306.csv",
+    "path": "data/tracking/tracking_2021100306.csv",
+    "sha": "f139419eb9d926fb724306082db8cf4fac398f8c",
+    "size": 6092134,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100306.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100306.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f139419eb9d926fb724306082db8cf4fac398f8c",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100306.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100306.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f139419eb9d926fb724306082db8cf4fac398f8c",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100306.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100307.csv",
+    "path": "data/tracking/tracking_2021100307.csv",
+    "sha": "c18556dcc57f07017410b3d5b2b5cf74efd0e5e6",
+    "size": 8574590,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100307.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100307.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c18556dcc57f07017410b3d5b2b5cf74efd0e5e6",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100307.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100307.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c18556dcc57f07017410b3d5b2b5cf74efd0e5e6",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100307.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100308.csv",
+    "path": "data/tracking/tracking_2021100308.csv",
+    "sha": "f649cfb4165aec0858504532eb4b80694638da22",
+    "size": 7075673,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100308.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100308.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f649cfb4165aec0858504532eb4b80694638da22",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100308.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100308.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f649cfb4165aec0858504532eb4b80694638da22",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100308.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100309.csv",
+    "path": "data/tracking/tracking_2021100309.csv",
+    "sha": "c6b15d33d1f5daab61fccac89a999c40c0ccb615",
+    "size": 7440146,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100309.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100309.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c6b15d33d1f5daab61fccac89a999c40c0ccb615",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100309.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100309.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c6b15d33d1f5daab61fccac89a999c40c0ccb615",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100309.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100310.csv",
+    "path": "data/tracking/tracking_2021100310.csv",
+    "sha": "c11ace7e15437282f0284394c2088326a21d44a2",
+    "size": 6365339,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100310.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100310.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c11ace7e15437282f0284394c2088326a21d44a2",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100310.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100310.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c11ace7e15437282f0284394c2088326a21d44a2",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100310.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100311.csv",
+    "path": "data/tracking/tracking_2021100311.csv",
+    "sha": "4eaf96012aa80c74c32c868b82a8f736a02ab3eb",
+    "size": 8011089,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100311.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100311.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4eaf96012aa80c74c32c868b82a8f736a02ab3eb",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100311.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100311.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4eaf96012aa80c74c32c868b82a8f736a02ab3eb",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100311.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100312.csv",
+    "path": "data/tracking/tracking_2021100312.csv",
+    "sha": "cf5bf8349ab6f53d3526d95fc9f69aeac714bbec",
+    "size": 6084979,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100312.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100312.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cf5bf8349ab6f53d3526d95fc9f69aeac714bbec",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100312.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100312.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cf5bf8349ab6f53d3526d95fc9f69aeac714bbec",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100312.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100313.csv",
+    "path": "data/tracking/tracking_2021100313.csv",
+    "sha": "46975282292406335a636db78f5a83cf31d7588f",
+    "size": 7771234,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100313.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100313.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/46975282292406335a636db78f5a83cf31d7588f",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100313.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100313.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/46975282292406335a636db78f5a83cf31d7588f",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100313.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100400.csv",
+    "path": "data/tracking/tracking_2021100400.csv",
+    "sha": "6ca0a996917b46fb33e6c3797694fb5d85affccf",
+    "size": 6941335,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100400.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100400.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6ca0a996917b46fb33e6c3797694fb5d85affccf",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100400.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100400.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/6ca0a996917b46fb33e6c3797694fb5d85affccf",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100400.csv"
+    }
+  },
+  {
+    "name": "tracking_2021100700.csv",
+    "path": "data/tracking/tracking_2021100700.csv",
+    "sha": "4956b824a03c929df25d24f3f1d368cbc036de34",
+    "size": 7185411,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100700.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100700.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4956b824a03c929df25d24f3f1d368cbc036de34",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021100700.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021100700.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/4956b824a03c929df25d24f3f1d368cbc036de34",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021100700.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101000.csv",
+    "path": "data/tracking/tracking_2021101000.csv",
+    "sha": "cd5a57cc73592ef9b05338d0c36dea222467a099",
+    "size": 7892647,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101000.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101000.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cd5a57cc73592ef9b05338d0c36dea222467a099",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101000.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101000.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cd5a57cc73592ef9b05338d0c36dea222467a099",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101000.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101001.csv",
+    "path": "data/tracking/tracking_2021101001.csv",
+    "sha": "c55f97a89a4e172f6bfd759a22509c93f0757b0b",
+    "size": 7213460,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101001.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101001.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c55f97a89a4e172f6bfd759a22509c93f0757b0b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101001.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101001.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c55f97a89a4e172f6bfd759a22509c93f0757b0b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101001.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101002.csv",
+    "path": "data/tracking/tracking_2021101002.csv",
+    "sha": "68be8f3660d44d497adfc158e7b4095b97312f51",
+    "size": 7465261,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101002.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101002.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/68be8f3660d44d497adfc158e7b4095b97312f51",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101002.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101002.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/68be8f3660d44d497adfc158e7b4095b97312f51",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101002.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101003.csv",
+    "path": "data/tracking/tracking_2021101003.csv",
+    "sha": "14d17efd0bcf69789646b571328294edf1d27c2e",
+    "size": 5274253,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101003.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101003.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/14d17efd0bcf69789646b571328294edf1d27c2e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101003.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101003.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/14d17efd0bcf69789646b571328294edf1d27c2e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101003.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101004.csv",
+    "path": "data/tracking/tracking_2021101004.csv",
+    "sha": "1edbfd56edc8899298e23a4899f617773ae2876b",
+    "size": 6314716,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101004.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101004.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1edbfd56edc8899298e23a4899f617773ae2876b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101004.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101004.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1edbfd56edc8899298e23a4899f617773ae2876b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101004.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101005.csv",
+    "path": "data/tracking/tracking_2021101005.csv",
+    "sha": "1c27bebbff4f9964fe24cdd46833311af220686f",
+    "size": 6756626,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101005.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101005.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1c27bebbff4f9964fe24cdd46833311af220686f",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101005.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101005.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1c27bebbff4f9964fe24cdd46833311af220686f",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101005.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101006.csv",
+    "path": "data/tracking/tracking_2021101006.csv",
+    "sha": "7269ff950043e99cb015a5152bcf16871457bb47",
+    "size": 5691083,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101006.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101006.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/7269ff950043e99cb015a5152bcf16871457bb47",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101006.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101006.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/7269ff950043e99cb015a5152bcf16871457bb47",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101006.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101007.csv",
+    "path": "data/tracking/tracking_2021101007.csv",
+    "sha": "c641914745419b7d3b685801dd480fb92fd9ccc7",
+    "size": 7619499,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101007.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101007.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c641914745419b7d3b685801dd480fb92fd9ccc7",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101007.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101007.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c641914745419b7d3b685801dd480fb92fd9ccc7",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101007.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101008.csv",
+    "path": "data/tracking/tracking_2021101008.csv",
+    "sha": "fc6d20917daaff13ae6ab54e1c979816aa22a547",
+    "size": 8715689,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101008.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101008.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/fc6d20917daaff13ae6ab54e1c979816aa22a547",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101008.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101008.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/fc6d20917daaff13ae6ab54e1c979816aa22a547",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101008.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101009.csv",
+    "path": "data/tracking/tracking_2021101009.csv",
+    "sha": "8dda1f5234fa89f65f9b9e4455a6c4faf62284b8",
+    "size": 6886211,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101009.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101009.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8dda1f5234fa89f65f9b9e4455a6c4faf62284b8",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101009.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101009.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8dda1f5234fa89f65f9b9e4455a6c4faf62284b8",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101009.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101010.csv",
+    "path": "data/tracking/tracking_2021101010.csv",
+    "sha": "81f4b1cce84dab6fe03ebe0606803a00cc0b49cd",
+    "size": 5098344,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101010.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101010.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/81f4b1cce84dab6fe03ebe0606803a00cc0b49cd",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101010.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101010.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/81f4b1cce84dab6fe03ebe0606803a00cc0b49cd",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101010.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101011.csv",
+    "path": "data/tracking/tracking_2021101011.csv",
+    "sha": "0661f6811fe3a4675a45921364528be4b617a1b8",
+    "size": 6397903,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101011.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101011.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0661f6811fe3a4675a45921364528be4b617a1b8",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101011.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101011.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0661f6811fe3a4675a45921364528be4b617a1b8",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101011.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101012.csv",
+    "path": "data/tracking/tracking_2021101012.csv",
+    "sha": "8e6150cec1fe9433b0709377c84614037628abff",
+    "size": 6862789,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101012.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101012.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8e6150cec1fe9433b0709377c84614037628abff",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101012.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101012.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8e6150cec1fe9433b0709377c84614037628abff",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101012.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101013.csv",
+    "path": "data/tracking/tracking_2021101013.csv",
+    "sha": "0a19cb0d8cb2a37fea02f2d3f87985fcfd7bf55a",
+    "size": 8839097,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101013.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101013.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0a19cb0d8cb2a37fea02f2d3f87985fcfd7bf55a",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101013.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101013.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0a19cb0d8cb2a37fea02f2d3f87985fcfd7bf55a",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101013.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101100.csv",
+    "path": "data/tracking/tracking_2021101100.csv",
+    "sha": "e70892bb7151de668f4a5b5f54153d2399236b8a",
+    "size": 8011535,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101100.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101100.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/e70892bb7151de668f4a5b5f54153d2399236b8a",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101100.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101100.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/e70892bb7151de668f4a5b5f54153d2399236b8a",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101100.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101400.csv",
+    "path": "data/tracking/tracking_2021101400.csv",
+    "sha": "cafa2d0a31e544db0407eb6ddbbba31e366d69e0",
+    "size": 6370785,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101400.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101400.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cafa2d0a31e544db0407eb6ddbbba31e366d69e0",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101400.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101400.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cafa2d0a31e544db0407eb6ddbbba31e366d69e0",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101400.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101700.csv",
+    "path": "data/tracking/tracking_2021101700.csv",
+    "sha": "174b0d7d9a102949a43733babfed5916b086267c",
+    "size": 8269627,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101700.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101700.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/174b0d7d9a102949a43733babfed5916b086267c",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101700.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101700.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/174b0d7d9a102949a43733babfed5916b086267c",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101700.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101701.csv",
+    "path": "data/tracking/tracking_2021101701.csv",
+    "sha": "54520c86ca6b05ae10711029b5f95f8d9196131e",
+    "size": 6472677,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101701.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101701.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/54520c86ca6b05ae10711029b5f95f8d9196131e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101701.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101701.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/54520c86ca6b05ae10711029b5f95f8d9196131e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101701.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101702.csv",
+    "path": "data/tracking/tracking_2021101702.csv",
+    "sha": "1b912fed55e38ddf3ff85f9b8091a4b43b860748",
+    "size": 8324036,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101702.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101702.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1b912fed55e38ddf3ff85f9b8091a4b43b860748",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101702.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101702.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1b912fed55e38ddf3ff85f9b8091a4b43b860748",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101702.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101703.csv",
+    "path": "data/tracking/tracking_2021101703.csv",
+    "sha": "56d77ada104e83a1448508da63808999b88578d2",
+    "size": 6115576,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101703.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101703.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/56d77ada104e83a1448508da63808999b88578d2",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101703.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101703.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/56d77ada104e83a1448508da63808999b88578d2",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101703.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101704.csv",
+    "path": "data/tracking/tracking_2021101704.csv",
+    "sha": "aa54a1e0fba13c3b98f963bedc9c127393986e58",
+    "size": 7779068,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101704.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101704.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/aa54a1e0fba13c3b98f963bedc9c127393986e58",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101704.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101704.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/aa54a1e0fba13c3b98f963bedc9c127393986e58",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101704.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101705.csv",
+    "path": "data/tracking/tracking_2021101705.csv",
+    "sha": "0ee1d25a1ac35f167d9af285f3f44bf6e5d39f6b",
+    "size": 5393527,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101705.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101705.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0ee1d25a1ac35f167d9af285f3f44bf6e5d39f6b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101705.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101705.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0ee1d25a1ac35f167d9af285f3f44bf6e5d39f6b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101705.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101706.csv",
+    "path": "data/tracking/tracking_2021101706.csv",
+    "sha": "c4111623fa4682957e9eb67cef7e347c6d50404b",
+    "size": 7284055,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101706.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101706.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c4111623fa4682957e9eb67cef7e347c6d50404b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101706.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101706.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c4111623fa4682957e9eb67cef7e347c6d50404b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101706.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101707.csv",
+    "path": "data/tracking/tracking_2021101707.csv",
+    "sha": "1d3fe2e090b5be1961e1e699267dbe638dd17a04",
+    "size": 8424468,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101707.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101707.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1d3fe2e090b5be1961e1e699267dbe638dd17a04",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101707.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101707.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/1d3fe2e090b5be1961e1e699267dbe638dd17a04",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101707.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101708.csv",
+    "path": "data/tracking/tracking_2021101708.csv",
+    "sha": "b1c4069192b43834697d813868222a4dcf5b4c64",
+    "size": 6518785,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101708.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101708.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b1c4069192b43834697d813868222a4dcf5b4c64",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101708.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101708.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b1c4069192b43834697d813868222a4dcf5b4c64",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101708.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101709.csv",
+    "path": "data/tracking/tracking_2021101709.csv",
+    "sha": "50f09c3e8dae38ad3317eedfad3d01e45ad529a9",
+    "size": 8237023,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101709.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101709.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/50f09c3e8dae38ad3317eedfad3d01e45ad529a9",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101709.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101709.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/50f09c3e8dae38ad3317eedfad3d01e45ad529a9",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101709.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101710.csv",
+    "path": "data/tracking/tracking_2021101710.csv",
+    "sha": "fb564f9f3530e075d57b7f1e36d91e7481bd363b",
+    "size": 7102419,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101710.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101710.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/fb564f9f3530e075d57b7f1e36d91e7481bd363b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101710.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101710.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/fb564f9f3530e075d57b7f1e36d91e7481bd363b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101710.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101711.csv",
+    "path": "data/tracking/tracking_2021101711.csv",
+    "sha": "f223a038f0ad02c236f9aeb6d7d29d6840fd6af8",
+    "size": 5749634,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101711.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101711.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f223a038f0ad02c236f9aeb6d7d29d6840fd6af8",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101711.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101711.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f223a038f0ad02c236f9aeb6d7d29d6840fd6af8",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101711.csv"
+    }
+  },
+  {
+    "name": "tracking_2021101800.csv",
+    "path": "data/tracking/tracking_2021101800.csv",
+    "sha": "2a72b4a37619f21eac99577b1510d76c61e5828a",
+    "size": 7499899,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101800.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101800.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2a72b4a37619f21eac99577b1510d76c61e5828a",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021101800.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021101800.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/2a72b4a37619f21eac99577b1510d76c61e5828a",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021101800.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102100.csv",
+    "path": "data/tracking/tracking_2021102100.csv",
+    "sha": "78d0b2d7d2f72badd56605312983762893961364",
+    "size": 5880072,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102100.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102100.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/78d0b2d7d2f72badd56605312983762893961364",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102100.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102100.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/78d0b2d7d2f72badd56605312983762893961364",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102100.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102400.csv",
+    "path": "data/tracking/tracking_2021102400.csv",
+    "sha": "cb5f216d0c37862741b28143d04fa33d105abf58",
+    "size": 9267618,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102400.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102400.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cb5f216d0c37862741b28143d04fa33d105abf58",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102400.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102400.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/cb5f216d0c37862741b28143d04fa33d105abf58",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102400.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102401.csv",
+    "path": "data/tracking/tracking_2021102401.csv",
+    "sha": "30701cd2e9f3e4ef921fe3ae7c1a05956152a0d3",
+    "size": 7966686,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102401.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102401.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/30701cd2e9f3e4ef921fe3ae7c1a05956152a0d3",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102401.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102401.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/30701cd2e9f3e4ef921fe3ae7c1a05956152a0d3",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102401.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102402.csv",
+    "path": "data/tracking/tracking_2021102402.csv",
+    "sha": "893e13342851d780da2b0efbafece93600baea22",
+    "size": 7268959,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102402.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102402.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/893e13342851d780da2b0efbafece93600baea22",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102402.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102402.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/893e13342851d780da2b0efbafece93600baea22",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102402.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102403.csv",
+    "path": "data/tracking/tracking_2021102403.csv",
+    "sha": "57eed3413f944ed4e94525f728370b280587a997",
+    "size": 7267930,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102403.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102403.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/57eed3413f944ed4e94525f728370b280587a997",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102403.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102403.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/57eed3413f944ed4e94525f728370b280587a997",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102403.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102404.csv",
+    "path": "data/tracking/tracking_2021102404.csv",
+    "sha": "287896bfcba51e8f186503d37cb6d49939c306d0",
+    "size": 7498421,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102404.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102404.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/287896bfcba51e8f186503d37cb6d49939c306d0",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102404.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102404.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/287896bfcba51e8f186503d37cb6d49939c306d0",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102404.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102405.csv",
+    "path": "data/tracking/tracking_2021102405.csv",
+    "sha": "fff06c3ef9a9d0ddf8063e2a2ca66f3e749f49bb",
+    "size": 8168255,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102405.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102405.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/fff06c3ef9a9d0ddf8063e2a2ca66f3e749f49bb",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102405.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102405.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/fff06c3ef9a9d0ddf8063e2a2ca66f3e749f49bb",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102405.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102406.csv",
+    "path": "data/tracking/tracking_2021102406.csv",
+    "sha": "89f13149615a67389d73d6aba0c2e91bb41ca175",
+    "size": 6772963,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102406.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102406.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/89f13149615a67389d73d6aba0c2e91bb41ca175",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102406.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102406.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/89f13149615a67389d73d6aba0c2e91bb41ca175",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102406.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102407.csv",
+    "path": "data/tracking/tracking_2021102407.csv",
+    "sha": "5e1857362caf2137f72bebe1dbdde27f50106011",
+    "size": 6583123,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102407.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102407.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/5e1857362caf2137f72bebe1dbdde27f50106011",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102407.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102407.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/5e1857362caf2137f72bebe1dbdde27f50106011",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102407.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102408.csv",
+    "path": "data/tracking/tracking_2021102408.csv",
+    "sha": "3d26b6bb29ef7d144b05c974f1c79340410fe50e",
+    "size": 6474076,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102408.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102408.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/3d26b6bb29ef7d144b05c974f1c79340410fe50e",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102408.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102408.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/3d26b6bb29ef7d144b05c974f1c79340410fe50e",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102408.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102409.csv",
+    "path": "data/tracking/tracking_2021102409.csv",
+    "sha": "bcd7dbb9ba079aa1167c43600c2c1404f1759602",
+    "size": 6564335,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102409.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102409.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/bcd7dbb9ba079aa1167c43600c2c1404f1759602",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102409.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102409.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/bcd7dbb9ba079aa1167c43600c2c1404f1759602",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102409.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102410.csv",
+    "path": "data/tracking/tracking_2021102410.csv",
+    "sha": "f28e3d73ea459a4831101dd62dbdd60f75611ec3",
+    "size": 5553870,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102410.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102410.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f28e3d73ea459a4831101dd62dbdd60f75611ec3",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102410.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102410.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/f28e3d73ea459a4831101dd62dbdd60f75611ec3",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102410.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102500.csv",
+    "path": "data/tracking/tracking_2021102500.csv",
+    "sha": "8543a2963fb09d9c8947e64840d5f93bbd6212b4",
+    "size": 7278933,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102500.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102500.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8543a2963fb09d9c8947e64840d5f93bbd6212b4",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102500.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102500.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/8543a2963fb09d9c8947e64840d5f93bbd6212b4",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102500.csv"
+    }
+  },
+  {
+    "name": "tracking_2021102800.csv",
+    "path": "data/tracking/tracking_2021102800.csv",
+    "sha": "33c948e55c61b464c295e61e68f92de0b962894f",
+    "size": 5207649,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102800.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102800.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/33c948e55c61b464c295e61e68f92de0b962894f",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021102800.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021102800.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/33c948e55c61b464c295e61e68f92de0b962894f",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021102800.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103100.csv",
+    "path": "data/tracking/tracking_2021103100.csv",
+    "sha": "75e6be2d8829f0cd886091b27fa17960d2b52fce",
+    "size": 5173177,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103100.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103100.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/75e6be2d8829f0cd886091b27fa17960d2b52fce",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103100.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103100.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/75e6be2d8829f0cd886091b27fa17960d2b52fce",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103100.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103101.csv",
+    "path": "data/tracking/tracking_2021103101.csv",
+    "sha": "aae08948f137242326cbe19b38878efbbb5cbf48",
+    "size": 6582873,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103101.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103101.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/aae08948f137242326cbe19b38878efbbb5cbf48",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103101.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103101.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/aae08948f137242326cbe19b38878efbbb5cbf48",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103101.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103102.csv",
+    "path": "data/tracking/tracking_2021103102.csv",
+    "sha": "abf71f7ddeb3dcfe781d0c02cf01f917ba00ea1f",
+    "size": 5929279,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103102.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103102.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/abf71f7ddeb3dcfe781d0c02cf01f917ba00ea1f",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103102.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103102.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/abf71f7ddeb3dcfe781d0c02cf01f917ba00ea1f",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103102.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103103.csv",
+    "path": "data/tracking/tracking_2021103103.csv",
+    "sha": "c3d7b69eed538a5c5f6fa5d9eec56ddba78a0d79",
+    "size": 5608389,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103103.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103103.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c3d7b69eed538a5c5f6fa5d9eec56ddba78a0d79",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103103.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103103.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/c3d7b69eed538a5c5f6fa5d9eec56ddba78a0d79",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103103.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103104.csv",
+    "path": "data/tracking/tracking_2021103104.csv",
+    "sha": "738add2e2725ea182732a39b825ef0eecf9ccd88",
+    "size": 5692630,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103104.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103104.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/738add2e2725ea182732a39b825ef0eecf9ccd88",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103104.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103104.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/738add2e2725ea182732a39b825ef0eecf9ccd88",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103104.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103105.csv",
+    "path": "data/tracking/tracking_2021103105.csv",
+    "sha": "7252bef2a9b3af8bd4007b47135b0f7d1acb7756",
+    "size": 6217754,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103105.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103105.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/7252bef2a9b3af8bd4007b47135b0f7d1acb7756",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103105.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103105.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/7252bef2a9b3af8bd4007b47135b0f7d1acb7756",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103105.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103106.csv",
+    "path": "data/tracking/tracking_2021103106.csv",
+    "sha": "01380bd1262018f322ae87024a7f4910819f2776",
+    "size": 8473885,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103106.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103106.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/01380bd1262018f322ae87024a7f4910819f2776",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103106.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103106.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/01380bd1262018f322ae87024a7f4910819f2776",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103106.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103107.csv",
+    "path": "data/tracking/tracking_2021103107.csv",
+    "sha": "a242e5fb8b07e8c40341d58fac3b7f0e862b20af",
+    "size": 7127531,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103107.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103107.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/a242e5fb8b07e8c40341d58fac3b7f0e862b20af",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103107.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103107.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/a242e5fb8b07e8c40341d58fac3b7f0e862b20af",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103107.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103108.csv",
+    "path": "data/tracking/tracking_2021103108.csv",
+    "sha": "e9a74e16b93e5533c8bdb678c68038c825469187",
+    "size": 7341823,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103108.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103108.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/e9a74e16b93e5533c8bdb678c68038c825469187",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103108.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103108.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/e9a74e16b93e5533c8bdb678c68038c825469187",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103108.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103109.csv",
+    "path": "data/tracking/tracking_2021103109.csv",
+    "sha": "0de9e17147185b821c236f177fdcd1b160eabe58",
+    "size": 7366553,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103109.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103109.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0de9e17147185b821c236f177fdcd1b160eabe58",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103109.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103109.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/0de9e17147185b821c236f177fdcd1b160eabe58",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103109.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103110.csv",
+    "path": "data/tracking/tracking_2021103110.csv",
+    "sha": "b3887ff7e1787377045ef234718b77db6dc71529",
+    "size": 6317727,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103110.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103110.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b3887ff7e1787377045ef234718b77db6dc71529",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103110.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103110.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/b3887ff7e1787377045ef234718b77db6dc71529",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103110.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103111.csv",
+    "path": "data/tracking/tracking_2021103111.csv",
+    "sha": "3e7ebb47c34ff858297e1789d4cc76a313df813a",
+    "size": 7191386,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103111.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103111.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/3e7ebb47c34ff858297e1789d4cc76a313df813a",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103111.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103111.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/3e7ebb47c34ff858297e1789d4cc76a313df813a",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103111.csv"
+    }
+  },
+  {
+    "name": "tracking_2021103112.csv",
+    "path": "data/tracking/tracking_2021103112.csv",
+    "sha": "101e548e2ab621d2cfb304845ae237ce4ee35c6b",
+    "size": 8067691,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103112.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103112.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/101e548e2ab621d2cfb304845ae237ce4ee35c6b",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021103112.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021103112.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/101e548e2ab621d2cfb304845ae237ce4ee35c6b",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021103112.csv"
+    }
+  },
+  {
+    "name": "tracking_2021110100.csv",
+    "path": "data/tracking/tracking_2021110100.csv",
+    "sha": "9d2ec73febeccff04baa67e85c7fb709443cc944",
+    "size": 7789881,
+    "url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021110100.csv?ref=main",
+    "html_url": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021110100.csv",
+    "git_url": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/9d2ec73febeccff04baa67e85c7fb709443cc944",
+    "download_url": "https://raw.githubusercontent.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/main/data/tracking/tracking_2021110100.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/contents/data/tracking/tracking_2021110100.csv?ref=main",
+      "git": "https://api.github.com/repos/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/git/blobs/9d2ec73febeccff04baa67e85c7fb709443cc944",
+      "html": "https://github.com/ThompsonJamesBliss/nfl-big-data-bowl-regional-event-data/blob/main/data/tracking/tracking_2021110100.csv"
+    }
+  }
+]

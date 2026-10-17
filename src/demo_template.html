@@ -1,0 +1,106 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NFL PlayVision</title>
+<style>
+:root{--ink:#12191a;--paper:#f0eee7;--line:#c8cbc3;--muted:#5e6c6b;--acid:#d9ee54;--orange:#da784f;--blue:#89b4d0}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:14px Arial,Helvetica,sans-serif}
+.wrap{max-width:1600px;margin:auto;padding:0 34px 30px}
+.masthead{background:var(--ink);color:#f2f1e8;border-bottom:4px solid var(--acid)}
+.masthead-inner{max-width:1600px;margin:auto;padding:15px 34px;display:flex;align-items:center;gap:26px}
+.brand{font-family:Impact,'Arial Narrow',sans-serif;font-size:24px;letter-spacing:1px;white-space:nowrap}
+.brand b{color:var(--acid)}
+.mast-note{font:11px Consolas,monospace;letter-spacing:1px;color:#b4c3bf;text-transform:uppercase}
+.edition{margin-left:auto;border:1px solid #70827e;padding:7px 10px;font:11px Consolas,monospace;white-space:nowrap}
+header{display:flex;align-items:end;justify-content:space-between;gap:28px;padding:25px 0 21px;border-bottom:1px solid var(--ink)}
+.eyebrow,.sectionhead{font:700 11px Consolas,monospace;letter-spacing:1.2px;text-transform:uppercase;color:#a54a29}
+h1{font-family:Impact,'Arial Narrow',Arial,sans-serif;font-weight:400;letter-spacing:.1px;font-size:clamp(32px,3vw,48px);line-height:1;margin:9px 0 7px}
+h1 span{color:#a54a29}
+.sub{color:#4b5a59;line-height:1.5;max-width:680px}
+.badge{font:700 11px Consolas,monospace;text-align:right;line-height:1.6;max-width:270px;color:#526360}
+.metrics{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:2px solid var(--ink);margin-bottom:19px}
+.metric{padding:16px 20px 17px 0;min-width:0}
+.metric+.metric{padding-left:20px;border-left:1px solid var(--line)}
+.metric .label{font:700 11px Consolas,monospace;letter-spacing:.5px;text-transform:uppercase;color:#586560}
+.metric .value{font-family:Impact,'Arial Narrow',Arial,sans-serif;font-size:33px;line-height:1.1;margin:6px 0 5px}
+.metric .note{font-size:11px;color:#687571;line-height:1.35}
+.section-row{display:flex;justify-content:space-between;align-items:center;margin:0 0 9px;font:11px Consolas,monospace;color:#56635f}
+.section-row strong{color:var(--ink);letter-spacing:1px}
+.grid{display:grid;grid-template-columns:minmax(0,3.25fr) minmax(270px,1fr);gap:20px}
+.panel{border:1px solid var(--ink);background:#fff;overflow:hidden}
+.toolbar{display:flex;gap:9px;align-items:center;padding:12px;background:#e0e2d9;border-bottom:1px solid var(--ink);flex-wrap:wrap}
+select,button{background:#fff;color:var(--ink);border:1px solid #939d97;border-radius:0;padding:9px 10px;font:12px Arial,sans-serif;min-height:34px}
+button{cursor:pointer;font-weight:700}button:hover,select:hover{border-color:var(--ink)}
+.primary{background:var(--acid);color:var(--ink);border-color:var(--ink);font-weight:800}
+#scene{flex:1;min-width:250px}#pitch{height:535px;background:#102c25}
+.source{color:#536561;font:11px Consolas,monospace;padding:9px 14px;min-height:34px;border-top:1px solid #667b70;background:#f4f4ee}
+.controls{padding:12px 14px;border-top:1px solid var(--ink);display:flex;align-items:center;gap:9px;background:#fff}
+input[type=range]{flex:1;accent-color:#829f24}
+.clock{font:11px Consolas,monospace;color:#4a5854;min-width:94px}
+.sidebar{border-top:2px solid var(--ink)}
+.card{padding:16px 0 18px;border-bottom:1px solid var(--line);background:transparent}
+.card h2{font:700 11px Consolas,monospace;text-transform:uppercase;letter-spacing:.9px;color:#a54a29;margin:0 0 13px}
+.playername{font-family:Impact,'Arial Narrow',Arial,sans-serif;font-size:27px;line-height:1.1}
+.role{font:11px Consolas,monospace;color:#4b6775;text-transform:uppercase;margin:6px 0 17px}
+.duel{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.big{font-family:Impact,'Arial Narrow',Arial,sans-serif;font-size:31px;color:var(--ink)}
+.small{color:#5c6b66;font:10px Consolas,monospace;text-transform:uppercase;line-height:1.4}
+.explain{color:#293938;font-size:13px;line-height:1.55}
+.legend{display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:11px;color:#3c4f4c}
+.dot{display:inline-block;width:8px;height:8px;border:1px solid #334;margin-right:7px}
+.switch{font-size:12px;color:#273431;display:flex;gap:6px;align-items:center;white-space:nowrap}
+.event{margin-top:14px;font:11px Consolas,monospace;padding:9px 0;border-top:1px solid var(--line);color:#a54a29;min-height:28px}
+footer{color:#65736d;font-size:11px;margin-top:21px;line-height:1.6;max-width:1120px}
+.truth{color:#3d8064}.error{font:11px Consolas,monospace;margin-top:11px;color:#506360;line-height:1.5}
+@media(max-width:1000px){.grid{grid-template-columns:1fr}.sidebar{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{border-top:2px solid var(--ink)}#pitch{height:470px}}
+@media(max-width:700px){.wrap{padding:0 15px 25px}.masthead-inner{padding:12px 15px;gap:12px}.mast-note{display:none}header{display:block;padding:20px 0 17px}.badge{display:none}.metrics{grid-template-columns:1fr}.metric,.metric+.metric{padding:11px 0;border-left:0;border-bottom:1px solid var(--line)}.metric .value{font-size:28px}.sidebar{display:block}#pitch{height:300px}.controls{flex-wrap:wrap}.controls input[type=range]{min-width:110px}.toolbar select{max-width:100%}}
+</style><script>__PLOTLY_JS__</script></head><body>
+<div class="masthead"><div class="masthead-inner">
+  <div class="brand">PV<b>/</b> NFL</div>
+  <div class="mast-note">Player motion / tracking study</div>
+  <div class="edition">MODEL V2 &nbsp;·&nbsp; OFFLINE REPLAY</div>
+</div></div>
+<div class="wrap">
+<header>
+  <div><div class="eyebrow">01 / Route laboratory</div>
+  <h1>Read the route. <span>See the next step.</span></h1>
+  <div class="sub">Explore player movement from recorded NFL tracking. Choose a play, inspect the nearest defender, and compare a short-range forecast with the actual path.</div></div>
+  <div class="badge">21 REPLAY CLIPS / 13 GAMES<br>2021 TEST · VALIDATION · TRAIN<br>2017 EXTERNAL GAME</div>
+</header>
+<div class="metrics">
+  <div class="metric"><div class="label">01 / Forecast error · +0.5 sec</div><div class="value" id="m05">—</div><div class="note">Mean position error on held-out 2021 games</div></div>
+  <div class="metric"><div class="label">02 / Forecast error · +1.0 sec</div><div class="value" id="m10">—</div><div class="note">Mean position error on held-out 2021 games</div></div>
+  <div class="metric"><div class="label">03 / Within 0.5 yd · +0.5 sec</div><div class="value" id="mtol">—</div><div class="note">Distance tolerance, not catch prediction accuracy</div></div>
+</div>
+<div class="section-row"><strong>02 / FIELD STUDY</strong><span>OBSERVED HISTORY → FORECAST → FUTURE TRUTH</span></div>
+<div class="grid">
+  <section class="panel" aria-label="Tracking replay">
+    <div class="toolbar"><select id="scene" aria-label="Select replay"></select><select id="horizon" aria-label="Forecast horizon"><option value="0.5">Forecast +0.5s</option><option value="1.0">Forecast +1.0s</option></select><label class="switch"><input type="checkbox" id="truth"> Show future path</label></div>
+    <div id="pitch"></div><div class="source" id="source"></div>
+    <div class="controls"><button class="primary" id="play">▶ Play</button><button id="back" title="Previous frame">←</button><input type="range" min="0" max="1" value="0" id="scrub" aria-label="Replay frame"><button id="next" title="Next frame">→</button><span class="clock" id="clock"></span><select id="speed" aria-label="Playback speed"><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="2">2×</option></select></div>
+  </section>
+  <aside class="sidebar">
+    <div class="card"><h2>01 / Receiver watch</h2><select id="receiver" aria-label="Select receiver" style="width:100%;margin-bottom:17px"></select><div class="playername" id="pname"></div><div class="role" id="prole"></div><div class="duel"><div><div class="big" id="gap">—</div><div class="small">Nearest DB gap · yd</div></div><div><div class="big" id="closing">—</div><div class="small">Closing speed · yd/s</div></div></div><div class="event" id="event"></div></div>
+    <div class="card"><h2>02 / Geometry note</h2><div class="explain" id="analysis"></div><div class="error" id="error"></div></div>
+    <div class="card"><h2>03 / Field key</h2><div class="legend"><span><i class="dot" style="background:#89b4d0"></i>Offense</span><span><i class="dot" style="background:#da784f"></i>Defense</span><span><i class="dot" style="background:#d9ee54"></i>Model forecast</span><span><i class="dot" style="background:#a0aec0"></i>Constant velocity</span><span><i class="dot" style="background:#d7f2ad"></i>Future truth</span><span><i class="dot" style="background:white"></i>Football</span></div></div>
+  </aside>
+</div>
+<footer>Retrospective replay from recorded tracking, not broadcast video or a live forecast. Nearest defensive back means geometric proximity, not inferred coverage assignment. The model uses observed history; future truth is shown only as an optional replay overlay. The 2021 tracking clips end shortly after the throw. Metrics are based on two held-out games and do not establish league-wide accuracy. Data: NFL Next Gen Stats via regional-event data and NFL Football Operations.</footer>
+</div>
+<script>
+const DATA=__DATA_JSON__;const $=id=>document.getElementById(id);let current=0,index=0,timer=null;
+$('m05').textContent=DATA.metrics.horizons['0.5'].selected_model.mean_distance_yards.toFixed(2)+' yd';$('m10').textContent=DATA.metrics.horizons['1.0'].selected_model.mean_distance_yards.toFixed(2)+' yd';$('mtol').textContent=DATA.metrics.horizons['0.5'].selected_model.within_0_5_yards_pct.toFixed(2)+'%';
+DATA.scenes.forEach((s,i)=>$('scene').add(new Option(s.label,i)));
+function field(){const shapes=[{type:'rect',x0:0,x1:120,y0:0,y1:53.333,line:{color:'#9eb9aa',width:1},fillcolor:'#0c352a',layer:'below'},{type:'rect',x0:0,x1:10,y0:0,y1:53.333,line:{width:0},fillcolor:'#163e45',layer:'below'},{type:'rect',x0:110,x1:120,y0:0,y1:53.333,line:{width:0},fillcolor:'#163e45',layer:'below'}];for(let x=10;x<=110;x+=5){shapes.push({type:'line',x0:x,x1:x,y0:0,y1:53.333,line:{color:x%10===0?'#759d87':'#325c49',width:1},layer:'below'});}for(let x=11;x<110;x++){for(let y of [23.6,29.73])shapes.push({type:'line',x0:x,x1:x,y0:y-.35,y1:y+.35,line:{color:'#5d866f',width:1},layer:'below'});}return shapes;}
+function trace(name,x,y,style={}){return {type:'scatter',mode:'markers',name,x,y,hoverinfo:'skip',...style};}
+function changeScene(){stop();current=+$('scene').value;index=0;const s=DATA.scenes[current];$('receiver').innerHTML='';s.receivers.forEach(id=>$('receiver').add(new Option(s.roster[id].name+' · '+s.roster[id].position,id)));$('receiver').value=s.defaultReceiver;$('scrub').max=s.frames.length-1;$('source').textContent=s.source;render();}
+function render(){const s=DATA.scenes[current],f=s.frames[index],id=$('receiver').value,h=$('horizon').value,p=f.players.find(p=>p[0]===id),r=s.roster[id];$('scrub').value=index;$('clock').textContent='Frame '+f.frame+' · '+((f.frame-s.frames[0].frame)/10).toFixed(1)+'s';$('pname').textContent=r?r.name:'Receiver unavailable';$('prole').textContent=r?r.position+' · '+r.team:'';$('event').textContent=f.events.length?f.events.join(' · '):'Tracking frame';
+const traces=[];for(let kind of ['offense','defense','ball']){const rows=f.players.filter(p=>kind==='ball'?p[0]==='-1':p[0]!=='-1'&&s.roster[p[0]].offense===(kind==='offense'));traces.push({type:'scatter',mode:kind==='ball'?'markers':'markers+text',x:rows.map(p=>p[1]),y:rows.map(p=>p[2]),text:rows.map(p=>s.roster[p[0]].jersey),textposition:'middle center',textfont:{size:9,color:'#092031'},customdata:rows.map(p=>p[0]),hovertext:rows.map(p=>s.roster[p[0]].name+' · '+s.roster[p[0]].position),hoverinfo:'text',marker:{size:kind==='ball'?8:18,color:kind==='offense'?'#89b4d0':kind==='defense'?'#da784f':'#fff',line:{color:'#071c20',width:1}},name:kind});}
+let nearest=null,gap=Infinity;const dbPositions=['CB','FS','SS','DB','S','SAF'];if(p){for(const o of f.players){const ro=s.roster[o[0]];if(!ro||ro.offense||!dbPositions.includes(ro.position))continue;const dist=Math.hypot(o[1]-p[1],o[2]-p[2]);if(dist<gap){gap=dist;nearest=o;}}
+traces.push(trace('Focus',[p[1]],[p[2]],{marker:{size:27,color:'rgba(0,0,0,0)',line:{color:'#d9ee54',width:3}}}));
+if(nearest){const rx=nearest[1]-p[1],ry=nearest[2]-p[2],closing=-(rx*(nearest[3]-p[3])+ry*(nearest[4]-p[4]))/Math.max(gap,.001);$('gap').textContent=gap.toFixed(2);$('closing').textContent=(closing>=0?'+':'')+closing.toFixed(2);$('analysis').textContent=`${r.name} has ${gap.toFixed(1)} yards to the nearest defensive back, ${s.roster[nearest[0]].name}. The gap is ${closing>.2?'closing':closing<-.2?'opening':'roughly stable'} at ${Math.abs(closing).toFixed(1)} yd/s. This describes local movement, not player intent or assignment.`;traces.push({type:'scatter',mode:'lines',x:[p[1],nearest[1]],y:[p[2],nearest[2]],line:{color:'#e4c98a',width:1,dash:'dot'},hoverinfo:'skip',name:'Duel'});}
+for(const actor of [p,nearest]){if(!actor)continue;const points=s.frames.slice(Math.max(0,index-8),index+1).map(t=>t.players.find(z=>z[0]===actor[0])).filter(Boolean);traces.push({type:'scatter',mode:'lines',x:points.map(t=>t[1]),y:points.map(t=>t[2]),line:{color:actor===p?'#89b4d0':'#da784f',width:3},opacity:.6,hoverinfo:'skip',name:'Observed past'});const forecast=(f.forecasts[h]||{})[actor[0]];if(forecast){traces.push({type:'scatter',mode:'lines+markers',x:[actor[1],forecast[0]],y:[actor[2],forecast[1]],line:{color:'#d9ee54',width:2,dash:'dash'},marker:{size:[0,11],symbol:'diamond',color:'#d9ee54'},hoverinfo:'skip',name:'Forecast'});if(actor===p)traces.push(trace('CV baseline',[forecast[2]],[forecast[3]],{marker:{size:10,symbol:'circle-open',line:{color:'#a0aec0',width:2}}}));}}
+const pred=(f.forecasts[h]||{})[id];const future=s.frames.find(t=>t.frame===f.frame+Math.round(+h*10));const truth=future?future.players.find(t=>t[0]===id):null;if($('truth').checked&&truth){traces.push(trace('Actual future',[truth[1]],[truth[2]],{marker:{size:12,symbol:'x',color:'#d7f2ad'}}));$('error').textContent=pred?'Forecast error at +'+h+'s: '+Math.hypot(pred[0]-truth[1],pred[1]-truth[2]).toFixed(2)+' yd':'Forecast unavailable: insufficient observed history.';}else $('error').textContent=pred?'Ghost diamond: predicted position at +'+h+'s. Future truth is hidden.':'Collecting observed history for a forecast.';
+}else{$('gap').textContent='—';$('closing').textContent='—';$('analysis').textContent='Selected player is not present in this frame.';$('error').textContent='';}
+const layout={paper_bgcolor:'#ffffff',plot_bgcolor:'#0c352a',margin:{l:16,r:16,t:14,b:14},showlegend:false,shapes:field(),xaxis:{range:[-1,121],showgrid:false,zeroline:false,visible:false,fixedrange:true},yaxis:{range:[-1,54.33],showgrid:false,zeroline:false,visible:false,scaleanchor:'x',scaleratio:1,fixedrange:true},uirevision:'field',annotations:[{x:60,y:26.66,text:'PV / NFL',showarrow:false,font:{color:'rgba(255,255,255,.08)',size:36}}]};Plotly.react('pitch',traces,layout,{responsive:true,displayModeBar:false});}
+function stop(){if(timer)clearInterval(timer);timer=null;$('play').textContent='▶ Play';}function play(){if(timer){stop();return;}$('play').textContent='❚❚ Pause';timer=setInterval(()=>{const s=DATA.scenes[current];index++;if(index>=s.frames.length){index=s.frames.length-1;stop();}render();},100/+$('speed').value);}
+$('scene').onchange=changeScene;$('receiver').onchange=render;$('horizon').onchange=render;$('truth').onchange=render;$('play').onclick=play;$('scrub').oninput=()=>{index=+$('scrub').value;render();};$('back').onclick=()=>{index=Math.max(0,index-1);render();};$('next').onclick=()=>{index=Math.min(DATA.scenes[current].frames.length-1,index+1);render();};$('speed').onchange=()=>{if(timer){stop();play();}};document.addEventListener('keydown',e=>{if(e.target.tagName==='SELECT'||e.target.tagName==='INPUT')return;if(e.code==='Space'){e.preventDefault();play();}if(e.key==='ArrowRight')$('next').click();if(e.key==='ArrowLeft')$('back').click();});changeScene();
+</script></body></html>

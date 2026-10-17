@@ -1,0 +1,12 @@
+Prepared 2021090900 {'split': 'train', 'samples': 21828, 'plays': 92}
+Prepared 2021091200 {'split': 'train', 'samples': 13837, 'plays': 62}
+Prepared 2021091201 {'split': 'train', 'samples': 17983, 'plays': 73}
+Prepared 2021091202 {'split': 'train', 'samples': 15132, 'plays': 65}
+Prepared 2021091600 {'split': 'train', 'samples': 15808, 'plays': 70}
+Prepared 2021091900 {'split': 'train', 'samples': 14745, 'plays': 55}
+Prepared 2021091901 {'split': 'train', 'samples': 12362, 'plays': 53}
+Prepared 2021091902 {'split': 'train', 'samples': 10584, 'plays': 42}
+Prepared 2021092300 {'split': 'validation', 'samples': 13951, 'plays': 60}
+Prepared 2021092600 {'split': 'validation', 'samples': 18573, 'plays': 65}
+Prepared 2021093000 {'split': 'test', 'samples': 12970, 'plays': 47}
+Prepared 2021100300 {'split': 'test', 'samples': 17715, 'plays': 69}

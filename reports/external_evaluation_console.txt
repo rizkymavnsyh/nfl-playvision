@@ -1,0 +1,76 @@
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+{
+  "source": "Single complete 2017 game, unseen by model fitting; different era and same-game correlation limit generalization",
+  "game_id": 2017090700,
+  "horizons": {
+    "0.5": {
+      "all_passing_play": {
+        "n": 16441,
+        "mean_distance_yards": 0.3975269279525538,
+        "median_distance_yards": 0.2953897325160762,
+        "p90_distance_yards": 0.853231774373871,
+        "coordinate_RMSE_yards": 0.3691803833293085,
+        "within_0_5_yards_pct": 76.22407396143787,
+        "within_1_yard_pct": 92.59777385803784,
+        "within_2_yards_pct": 99.82969405753907
+      },
+      "post_release": {
+        "n": 4612,
+        "mean_distance_yards": 0.3144922526064711,
+        "median_distance_yards": 0.28054083416366876,
+        "p90_distance_yards": 0.5611109058682565,
+        "coordinate_RMSE_yards": 0.25817659402040377,
+        "within_0_5_yards_pct": 84.99566348655681,
+        "within_1_yard_pct": 99.58803122289679,
+        "within_2_yards_pct": 100.0
+      },
+      "post_release_CV": {
+        "n": 4612,
+        "mean_distance_yards": 0.5246804894293595,
+        "median_distance_yards": 0.48134072016492613,
+        "p90_distance_yards": 0.9472826608201897,
+        "coordinate_RMSE_yards": 0.4272527324303288,
+        "within_0_5_yards_pct": 53.07892454466609,
+        "within_1_yard_pct": 91.95576756287944,
+        "within_2_yards_pct": 99.97831743278404
+      },
+      "post_release_plays": 72
+    },
+    "1.0": {
+      "all_passing_play": {
+        "n": 16441,
+        "mean_distance_yards": 1.21712043993903,
+        "median_distance_yards": 1.0217523651519915,
+        "p90_distance_yards": 2.3315315910909797,
+        "coordinate_RMSE_yards": 1.0358442830737238,
+        "within_0_5_yards_pct": 16.829876528191715,
+        "within_1_yard_pct": 48.63451128276869,
+        "within_2_yards_pct": 84.97658293291163
+      },
+      "post_release": {
+        "n": 4612,
+        "mean_distance_yards": 0.9723112556567097,
+        "median_distance_yards": 0.8955077443864669,
+        "p90_distance_yards": 1.6936247724979225,
+        "coordinate_RMSE_yards": 0.7845487880417935,
+        "within_0_5_yards_pct": 19.79618386816999,
+        "within_1_yard_pct": 58.15264527320034,
+        "within_2_yards_pct": 95.49002601908066
+      },
+      "post_release_CV": {
+        "n": 4612,
+        "mean_distance_yards": 1.6052454036834953,
+        "median_distance_yards": 1.4760306826081666,
+        "p90_distance_yards": 2.845375482848384,
+        "coordinate_RMSE_yards": 1.296561818761414,
+        "within_0_5_yards_pct": 8.759757155247181,
+        "within_1_yard_pct": 27.797051170858627,
+        "within_2_yards_pct": 69.62272333044233
+      },
+      "post_release_plays": 72
+    }
+  }
+}
